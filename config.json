@@ -1,0 +1,15 @@
+{
+    "north": maximum latitude,
+    "south": minimum latitude,
+    "west":  minimum longitude,
+    "east":  maximum longitude,
+    "time_of_interest": "HH:MM",
+    "date_list": [
+        "yyyymmdd",
+        "yyyymmdd",
+        ......... ,
+        "yyyymmdd"
+    ],
+    "output_format": "Binary grid",
+    "email": "your email"
+}
